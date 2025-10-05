@@ -1,0 +1,3 @@
+﻿  TCP_client.cpp
+D:\BaitapHK5\TCP client - TCP listener\TCP_client\TCP_client.cpp(110,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  TCP_client.vcxproj -> D:\BaitapHK5\TCP client - TCP listener\server\x64\Debug\TCP_client.exe

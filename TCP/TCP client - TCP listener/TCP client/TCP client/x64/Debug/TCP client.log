@@ -1,0 +1,3 @@
+﻿  TCP client.c
+D:\BaitapHK5\TCP client - TCP listener\TCP client\TCP client.c(40,25): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  TCP client.vcxproj -> D:\BaitapHK5\TCP client - TCP listener\TCP client\x64\Debug\TCP client.exe
